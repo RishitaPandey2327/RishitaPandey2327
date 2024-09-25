@@ -8,7 +8,7 @@
 I'm **Rishita Pandey**, a passionate learner and a student. I am currently exploring the exciting fields of **Web Developemnt**. I'm always on the lookout for opportunities to collaborate on **Open Source Projects**.
 
 - 🌱 I’m currently learning **Web Development** to enhance my skills.
-- 💬 Ask me about **C, Web Development** - I'm happy to help!
+- 💬 Ask me about **C and Web Development** - I'm happy to help!
 - 📫 You can reach me at **rishita.2327cse1025@kiet.edu**.
 
 ## 🌐 Socials:
