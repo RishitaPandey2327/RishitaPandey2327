@@ -8,7 +8,7 @@
 I'm **Rishita Pandey**, a passionate learner and a student. I am currently exploring the exciting fields of **Web Developemnt**. I'm always on the lookout for opportunities to collaborate on **Open Source Projects**.
 
 - 🌱 I’m currently learning **Web Development** to enhance my skills.
-- 💬 Ask me about **C, MySQL, Web Development** - I'm happy to help!
+- 💬 Ask me about **C, Web Development** - I'm happy to help!
 - 📫 You can reach me at **rishita.2327cse1025@kiet.edu**.
 
 ## 🌐 Socials:
@@ -21,8 +21,6 @@ I'm **Rishita Pandey**, a passionate learner and a student. I am currently explo
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
