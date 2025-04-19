@@ -35,6 +35,13 @@ I'm **Rishita Pandey**, a passionate learner and a student. I am currently explo
 ![GitHub Stats](https://github-readme-stats-mu-dusky.vercel.app/api?username=RishitaPandey2327&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
+## 🌐 Open Source Projects
+
+- 🔥 [Weather App](https:/https://github.com/RishitaPandey2327/RishitaPandey2327/tree/main/github.com//weather-app)  
+  A simple, front-end weather app built with HTML, CSS, and JavaScript.
+
+
+
 ## Visitor Count:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RishitaPandey2327&color=blueviolet)
