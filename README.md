@@ -37,7 +37,7 @@ I'm **Rishita Pandey**, a passionate learner and a student. I am currently explo
 
 ## 🌐 Open Source Projects
 
-- 🔥 [Weather App](https:/https://github.com/RishitaPandey2327/RishitaPandey2327/tree/main/github.com//weather-app)  
+- 🔥 [Weather App](https://github.com/RishitaPandey2327/Weather-App)  
   A simple, front-end weather app built with HTML, CSS, and JavaScript.
 
 
