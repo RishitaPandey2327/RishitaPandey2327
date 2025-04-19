@@ -5,9 +5,9 @@
 
 ## Hi there! 👋
 
-I'm **Rishita Pandey**, a passionate learner and a student. I am currently exploring the exciting fields of **Web Developemnt**. I'm always on the lookout for opportunities to collaborate on **Open Source Projects**.
+I'm **Rishita Pandey**, a passionate learner and a student. I am currently exploring the exciting fields of **Android and Web Developemnt**. I'm always on the lookout for opportunities to collaborate on **Open Source Projects**.
 
-- 🌱 I’m currently learning **Web Development** to enhance my skills.
+- 🌱 I’m currently learning **Android and Web Development** to enhance my skills. 
 - 💬 Ask me about **C and Web Development** - I'm happy to help!
 - 📫 You can reach me at **rishita.2327cse1025@kiet.edu**.
 
@@ -17,6 +17,8 @@ I'm **Rishita Pandey**, a passionate learner and a student. I am currently explo
 
 
 # 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%231572B6.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,6 +26,7 @@ I'm **Rishita Pandey**, a passionate learner and a student. I am currently explo
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0078D4?style=for-the-badge&logo=android%20studio%20code&logoColor=white)
 
 ## 📊 GitHub Stats:
 
