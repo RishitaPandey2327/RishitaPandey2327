@@ -38,7 +38,9 @@ I'm **Rishita Pandey**, a passionate learner and a student. I am currently explo
 ## 🌐 Open Source Projects
 
 - 🔥 [Weather App](https://github.com/RishitaPandey2327/Weather-App)  
-  A simple, front-end weather app built with HTML, CSS, and JavaScript.
+   A simple, front-end weather app built with HTML, CSS, and JavaScript.
+- 🔥 [TalkGpt](https://github.com/RishitaPandey2327/TalkGPT) 
+   A conversational AI web app using Next.js, Gemini API, and a modern UI to deliver smart, interactive chat experiences.
 
 
 
